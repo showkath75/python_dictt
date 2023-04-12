@@ -1,0 +1,10 @@
+name = ("Mohammad showkath ali"
+print ("My name is:", name)
+age = 22
+print ("my age is:", age)
+gender = ("Male")
+print ("my gender is:", gender)
+location = ("patanpet, guduru")
+print ("my office location is:", location)
+git_email = ("mdshowkathali78633@gmail.com")
+print ("my github email id:", git_email)
